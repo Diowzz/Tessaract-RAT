@@ -1,15 +1,12 @@
 <img src="https://example.com">
 
+
 # AsyncRAT
 Tessaract is a Remote Access Tool (RAT) based off of AsyncRAT designed to remotely monitor and control other computers through a secure encrypted connection
 
 
 ##### Features Include:
 - Nothing (Im yet to start this project)
-
-
-### Download
-[Soon](https://example.com)
 
 
 ### LEGAL DISCLAIMER PLEASE READ!
